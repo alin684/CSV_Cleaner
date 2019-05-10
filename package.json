@@ -1,0 +1,19 @@
+{
+  "name": "peakspan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.1.1",
+    "email-validator": "^2.0.4",
+    "request": "^2.88.0",
+    "sqlite3": "^4.0.7",
+    "uuid-validate": "0.0.3",
+    "valid-url": "^1.0.9"
+  }
+}
