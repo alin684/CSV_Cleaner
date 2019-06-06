@@ -75,7 +75,7 @@ var finalHeaders = [
   "type"
 ]
 
-var input = fs.createReadStream("sample_organizations.csv");
+var input = fs.createReadStream("sample_orgs.csv");
 // var output = fs.createWriteStream("clean_sample.csv", {encoding: 'utf-8' });
 var db = new sqlite3.Database('cleanSQL.db');
 
