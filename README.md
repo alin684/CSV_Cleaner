@@ -21,6 +21,7 @@ The SQLite database can be used to run SQL queries on the cleaned data. The quer
 Currently, the output of these queries is printed to console.
 
 #INSTRUCTIONS FOR USE
+
 (1) "npm install" in console should install all dependencies from package.json
 Otherwise, they can be viewed in said file
 
